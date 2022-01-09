@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T19:04:30.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.2.4" etag="xLSVs_fm6k9WxXbtXyuh" type="github"><diagram id="3satusWjfTKw0V1saQ9-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-09T19:18:48.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4RzQewCZq_zhiTBlarCB" version="16.2.4" type="github">
+  <diagram id="3satusWjfTKw0V1saQ9-" name="Page-1">
+    <mxGraphModel dx="1173" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-12" target="x03uxSU-nXYmEHCHg6hs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="load game" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-13" target="x03uxSU-nXYmEHCHg6hs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="load level" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-13">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-16" value="what are you do?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="295" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-17" value="get resources" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x03uxSU-nXYmEHCHg6hs-16">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-18" value="fight enemis" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x03uxSU-nXYmEHCHg6hs-16">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-19" value="*blank*&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="x03uxSU-nXYmEHCHg6hs-16">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-21" target="x03uxSU-nXYmEHCHg6hs-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="350" />
+              <mxPoint x="760" y="405" />
+              <mxPoint x="30" y="405" />
+              <mxPoint x="30" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="back to base" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-21">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="620" y="320" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-17" target="x03uxSU-nXYmEHCHg6hs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-18" target="x03uxSU-nXYmEHCHg6hs-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-19" target="x03uxSU-nXYmEHCHg6hs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-29" target="x03uxSU-nXYmEHCHg6hs-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="upgrade factory" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-29">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-17" target="x03uxSU-nXYmEHCHg6hs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="get money to buy new tools" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-31">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="890" y="140" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-32" target="x03uxSU-nXYmEHCHg6hs-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-32" target="x03uxSU-nXYmEHCHg6hs-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-32" target="x03uxSU-nXYmEHCHg6hs-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="230" />
+              <mxPoint x="870" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="get money :D" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-32">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="730" y="200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="buy new parts of factory" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-35">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="890" y="200" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="get levels" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-39">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="580" y="440" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="x03uxSU-nXYmEHCHg6hs-18" target="x03uxSU-nXYmEHCHg6hs-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="new levels to unlock" treeRoot="1" id="x03uxSU-nXYmEHCHg6hs-45">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="920" y="440" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="230" as="sourcePoint" />
+            <mxPoint x="920" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-49" value="need money" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBorderColor=default;" connectable="0" vertex="1" parent="x03uxSU-nXYmEHCHg6hs-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="x03uxSU-nXYmEHCHg6hs-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="470" as="sourcePoint" />
+            <mxPoint x="800" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x03uxSU-nXYmEHCHg6hs-51" value="need levels(xp)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBorderColor=default;" connectable="0" vertex="1" parent="x03uxSU-nXYmEHCHg6hs-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
